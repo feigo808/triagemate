@@ -17,11 +17,13 @@ It converts raw crash logs and stack traces into structured, actionable triage r
 - Kotlinx Serialization
 
 ## Project Structure
+```
 TriageMate/
-├── app/
-├── examples/
-├── prompts/
-├── docs/
+  ├── app/
+  ├── examples/
+  ├── prompts/
+  ├── docs/
+```
 
 ## Roadmap
 - [ ] LLM integration (Gemini)
